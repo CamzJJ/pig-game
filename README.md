@@ -35,7 +35,7 @@ Users should be able to:
 ![](/screenshot.jpg)
 
 ### Links
-- [Guess my number site URL](https://camjj-pig-game.netlify.app/)
+- [Pig game site URL](https://camjj-pig-game.netlify.app/)
 
 ## My process
 - select all the elements to be manipulated in the DOM
